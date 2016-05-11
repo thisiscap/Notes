@@ -9,8 +9,6 @@ https://github.com/yasinkuyu/brackets-newdoc
 Editor Config
 https://github.com/kidwm/brackets-editorconfig
 
----
-
 **Writing**
 
 ColorHint
@@ -30,8 +28,6 @@ https://github.com/stowball/brackets-legibility
 
 Lorem Ipsum
 https://github.com/lkcampbell/brackets-lorem-ipsum
-
----
 
 **Post**
 
