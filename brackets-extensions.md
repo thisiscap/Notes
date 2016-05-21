@@ -1,47 +1,49 @@
+#Brackets extension list
+
 **Setup**
 
-Paste and Indent
+- Paste and Indent
 https://github.com/ahuth/brackets-paste-and-indent
 
-New HTML5 Document
+- New HTML5 Document
 https://github.com/yasinkuyu/brackets-newdoc
 
-Editor Config
+- Editor Config
 https://github.com/kidwm/brackets-editorconfig
 
 **Writing**
 
-ColorHint
+- ColorHint
 https://github.com/konstantinkobs/brackets-colorHints
 
-JSHint
+- JSHint
 https://github.com/cfjedimaster/brackets-jshint
 
-HTML Wrapper
+- HTML Wrapper
 https://github.com/rcaferati/brackets-html-wrapper
 
-Indent Guides
+- Indent Guides
 https://github.com/lkcampbell/brackets-indent-guides
 
-Legibility
+- Legibility
 https://github.com/stowball/brackets-legibility
 
-Lorem Ipsum
+- Lorem Ipsum
 https://github.com/lkcampbell/brackets-lorem-ipsum
 
 **Post**
 
-Autoprefixer
+- Autoprefixer
 https://github.com/mikaeljorhult/brackets-autoprefixer
 
-Brackets Beautify
+- Brackets Beautify
 https://github.com/brackets-beautify/brackets-beautify/archive/master.zip
 
-CSScomb
+- CSScomb
 https://github.com/i-akhmadullin/brackets-csscomb
 
-CSSLint
+- CSSLint
 https://github.com/cfjedimaster/brackets-csslint
 
-Minified
+- Minified
 https://github.com/wylst/brackets-minifier
