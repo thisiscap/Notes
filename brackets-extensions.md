@@ -1,6 +1,6 @@
 #Brackets extension list
 
-**Setup**
+**Beginning**
 
 - Paste and Indent
 https://github.com/ahuth/brackets-paste-and-indent
@@ -11,7 +11,7 @@ https://github.com/yasinkuyu/brackets-newdoc
 - Editor Config
 https://github.com/kidwm/brackets-editorconfig
 
-**Writing**
+**Middle**
 
 - ColorHint
 https://github.com/konstantinkobs/brackets-colorHints
@@ -31,7 +31,7 @@ https://github.com/stowball/brackets-legibility
 - Lorem Ipsum
 https://github.com/lkcampbell/brackets-lorem-ipsum
 
-**Post**
+**End**
 
 - Autoprefixer
 https://github.com/mikaeljorhult/brackets-autoprefixer
