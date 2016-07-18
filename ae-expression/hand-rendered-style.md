@@ -7,4 +7,4 @@
 - Find the `Random Seed` setting under `Evolution` options and add the following expression `time*10`
 - Appearance of look can be changed with the `Displacement` dialogue
 
-Source from http://josiahgatlyn.com
+[Source](http://josiahgatlyn.com)
