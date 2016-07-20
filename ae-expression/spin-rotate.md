@@ -1,4 +1,4 @@
-#Spin
+#Spin/Rotate
 
 - Add the following to `Rotation`:
 
