@@ -7,4 +7,6 @@
 
 3. Make (if needed) `package.json` and `Gruntfile.js`
 
-4. `cd` to the directory, use `grunt` to run default tasks
+4. `cd` to the directory, use `npm install —save-dev` to install dependancies
+
+4. Use `grunt` to run default tasks or `grunt 'task'` to run an individual task
