@@ -11,4 +11,4 @@
 4. Install Jekyll
 `sudo gem install compass`
 
-4a. If this doesn't work use `sudo gem install -n /usr/local/bin compass`
+5. If this doesn't work use `sudo gem install -n /usr/local/bin compass`
