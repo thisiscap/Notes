@@ -1,2 +1,2 @@
 # Notes
-Repo for notes and lists
+Repo for various notes and lists
