@@ -1,4 +1,4 @@
-#Setting up a Compass
+#Setup [Compass](http://compass-style.org)
 
 1. Install Xcode from App Store / Apple developer site
 
