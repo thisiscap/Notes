@@ -1,4 +1,4 @@
-#Setup Grunt
+#Setup [Grunt](http://gruntjs.com)
 
 1. Install [NodeJS](https://nodejs.org/)
 
