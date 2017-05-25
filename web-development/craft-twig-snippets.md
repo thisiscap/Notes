@@ -11,3 +11,7 @@
   ```
   {% if craft.request.firstSegment == 'news' %}class="active"{% endif %}
   ```
+- Do something based on device (cache example)
+  ```
+  {% cache if craft.request.isMobileBrowser() %}
+  ```
