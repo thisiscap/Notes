@@ -7,6 +7,9 @@ Repo for various notes and lists
 #### After effects expressions
 - To many to list right now
 
+#### MacOS
+- [MacOS snippets](mac-os/mac-snippets.md)
+
 #### Web development
 - [Atom.io packages](web-development/atom-packages.md)
 - [Brackets.io extensions](web-development/brackets-extensions.md)
