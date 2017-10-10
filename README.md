@@ -4,6 +4,9 @@ Repo for various notes and lists
 
 ### Table of contents
 
+#### Adobe CC
+- [Adobe snippets](adobe/adobe-snippets.md)
+
 #### After effects expressions
 - To many to list right now
 
