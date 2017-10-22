@@ -2,7 +2,7 @@
 
 **Smooth scroll to top**
 
-```
+```javascript
 $('a.backToTop').click(function(){
 $(document.body).animate({scrollTop : 0},800);
 return false;
@@ -14,7 +14,7 @@ return false;
 
 **Simple animated accordian**
 
-```
+```javascript
 // Close all Panels
 $('#accordion').find(‘.content').hide();
 // Accordion
