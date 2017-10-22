@@ -5,7 +5,7 @@ Repo for various notes and lists
 ### Table of contents
 
 #### Adobe CC
-- [Adobe snippets](adobe/adobe-snippets.md)
+- [Adobe app snippets](adobe/adobe-snippets.md)
 
 #### After effects expressions
 - To many to list right now
@@ -21,3 +21,4 @@ Repo for various notes and lists
 - [SASS snippets](web-development/sass.md)
 - [Setting up Compass](web-development/setup-compass.md)
 - [Setting up Grunt](web-development/setup-grunt.md)
+- [jQuery snippets](web-development/jquery-snippets.md)
