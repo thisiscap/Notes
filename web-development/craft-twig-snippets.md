@@ -11,6 +11,9 @@
   ```twig
   {% if craft.request.firstSegment == 'news' %}class="active"{% endif %}
   ```
+  ```twig
+  {% if craft.request.getPath() ==  entry.uri %}subNavigation-link--active{% endif %}
+  ```
 - Do something based on device (cache example)
   ```twig
   {% cache if craft.request.isMobileBrowser() %}
