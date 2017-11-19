@@ -5,10 +5,7 @@ Repo for various notes and lists
 ### Table of contents
 
 #### Adobe CC
-- [Adobe app snippets](adobe/adobe-snippets.md)
-
-#### After effects expressions
-- To many to list right now
+- [Adobe application snippets](adobe/adobe-snippets.md)
 
 #### MacOS
 - [MacOS snippets](mac-os/mac-snippets.md)
@@ -18,6 +15,7 @@ Repo for various notes and lists
 - [Brackets.io extensions](web-development/brackets-extensions.md)
 - [HTML snippets](web-development/html-snippets.md)
 - [Craft (Twig) snippets](web-development/craft-twig-snippets.md)
+- [CSS snippets](web-development/css-snippets.md)
 - [SASS snippets](web-development/sass.md)
 - [Setting up Compass](web-development/setup-compass.md)
 - [Setting up Grunt](web-development/setup-grunt.md)
