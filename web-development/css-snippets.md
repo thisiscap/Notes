@@ -7,3 +7,13 @@ img {
   image-rendering: -webkit-optimize-contrast;
 }
 ```
+
+**Useful for text wrap appearence and missing margins** [Source](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/)
+
+```css
+div {
+  // In the future
+  display: flow-root;
+  // As of now
+  overflow: auto;
+}
