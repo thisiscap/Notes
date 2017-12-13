@@ -12,8 +12,9 @@ img {
 
 ```css
 div {
-  // In the future
+  /* In the future */
   display: flow-root;
-  // As of now
+  
+  /* As of now */
   overflow: auto;
 }
