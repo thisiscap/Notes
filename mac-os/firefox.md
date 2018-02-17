@@ -21,3 +21,11 @@
   browser.gesture.pinch.out
   ```
 - Double click and change value to `null`
+
+**Keep tab bar open when in Fullscreen mode**
+- Open new tab with `about:config` in the url
+- Search for
+  ```
+  browser.fullscreen.autohide
+  ```
+- Set to `false`
