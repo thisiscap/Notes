@@ -1,6 +1,6 @@
-# Vanilla JS snippets
+# Vanilla JS snippets
 
-Menu toggle
+**Menu toggle**
 ````javascript
 var el = document.querySelector('.toggle-me');
 el.onclick = function() {
