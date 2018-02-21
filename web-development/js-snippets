@@ -1,14 +1,14 @@
 # Vanilla JS snippets
 
 Menu toggle
-```
+```javascript
 var el = document.querySelector('.toggle-me');
 el.onclick = function() {
   el.classList.toggle('active');
 }
 ```
 
-```js
+```javascript
 <script>
   // Find the navigation toggle
   var navToggle = document.querySelector(‘.toggle-thing’);
@@ -22,12 +22,12 @@ el.onclick = function() {
 Different things you can do:
 
 Add and remove multiple classes
-```
+```javascript
 div.classList.add("foo", "bar", "baz");
 div.classList.remove("foo", "bar", "baz");
 ```
 
 Swap between two classes
-```
+```javascript
 div.classList.replace("foo", "bar");
 ```
