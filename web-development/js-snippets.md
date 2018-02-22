@@ -1,20 +1,19 @@
 # Vanilla JS snippets
 
 **Menu toggle**
-````javascript
-var el = document.querySelector('.toggle-me');
-el.onclick = function() {
-  el.classList.toggle('active');
-}
-````
 
 ````javascript
 <script>
-  // Find the navigation toggle
-  var navToggle = document.querySelector(‘.toggle-thing’);
-  // Do something with it when it’s clicked
-  navToggle.onclick = function() {
-    navToggle.classList.toggle('active');
+  // Define the elements
+  var toggle = document.querySelector('#nav-toggle');
+  var overlay = document.querySelector('#nav-overlay');
+  var body = document.querySelector('body');
+
+  // Trigger the classes on click
+  toggle.onclick = function() {
+    toggle.classList.toggle('active');
+    overlay.classList.toggle('open');
+    body.classList.toggle('noScroll');
   }
 </script>
 ````
