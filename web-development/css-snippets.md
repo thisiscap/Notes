@@ -31,3 +31,30 @@ div {
   position: fixed;
 }
 ```
+
+**Apply properties to all but last**
+
+```sass
+li + li {
+ margin-top: 1rem;
+}
+
+// VS
+
+li {
+ //margin-bottom: 1rem;
+}
+li:last-of-type {
+  //margin-bottom: 0;
+}
+```
+
+**Truncate text with CSS**
+
+```sass
+p {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+```
