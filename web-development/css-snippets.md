@@ -24,7 +24,7 @@ div {
 
 ```sass
 .parent {
-  transform: translateZ(0); /* Add this */
+  transform: translateZ(0); // Add this
 }
 
 .child {
