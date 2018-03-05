@@ -2,7 +2,7 @@
 
 **Better image sharpness with scaling or downsizing** [Source](https://medium.freecodecamp.org/-898b38a6c0e1)
 
-```css
+```sass
 img {
   image-rendering: -webkit-optimize-contrast;
 }
@@ -10,12 +10,12 @@ img {
 
 **Useful for text wrap appearence and missing margins** [Source](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/)
 
-```css
+```sass
 div {
-  /* In the future */
+  // In the future
   display: flow-root;
   
-  /* As of now */
+  // As of now
   overflow: auto;
 }
 ```
