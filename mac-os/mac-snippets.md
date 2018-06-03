@@ -22,3 +22,11 @@
   ```
   sudo nvram -d SystemAudioVolume
   ```
+
+  **Show, and hide, hidden files**
+
+  - Open `Finder`
+  - Press
+    ```
+    cmd shift .
+    ```
