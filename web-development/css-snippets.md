@@ -58,3 +58,26 @@ p {
   text-overflow: ellipsis;
 }
 ```
+
+**Ratio keeping containers (16:9 example)**
+
+```sass
+.outer {
+  position: relative;
+  
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: (9 / 16) * 100%;
+  }
+  
+  > .inner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+}
+```
