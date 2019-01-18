@@ -81,3 +81,14 @@ p {
   }
 }
 ```
+
+**Disable CSS animations for users who opt-out of motion**
+
+```css
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+```
