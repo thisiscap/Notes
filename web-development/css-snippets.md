@@ -92,3 +92,16 @@ p {
   }
 }
 ```
+
+**Show search button when the search has content**
+
+```
+button {
+  display: none;
+}
+
+input:not(:placeholder-shown) + button {
+  display: block;
+}
+
+```
