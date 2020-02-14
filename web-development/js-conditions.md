@@ -1,5 +1,7 @@
 # JS conditions
 
-`&&` and
-`||` or
-`!` not
+```js
+&&  // and
+||  // or
+!   // not
+```
