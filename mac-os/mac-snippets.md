@@ -9,8 +9,7 @@
   ```
 - Relaunch the Dock with `killall Dock`
 
-
-**Turn off, and on, the startup chime**
+**Turn off, or on, the start-up chime**
 
 - Open `Terminal`
 - Write

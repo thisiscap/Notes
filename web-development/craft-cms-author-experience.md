@@ -2,7 +2,7 @@
 
 **Full screen asset preview**
 
-- With an asset selected use the keyboard shortcut `Shift + Space` to open a fullscreen preview.
+- With an asset selected use the keyboard shortcut `Shift + Space` to open a full-screen preview.
 
 **Make quick edits to entries**
 
