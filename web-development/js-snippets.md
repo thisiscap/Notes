@@ -31,7 +31,7 @@ div.classList.replace('foo', 'bar');
 
 **Conditionals**
 
-```js
+```javascript
 &&  // and
 ||  // or
 !   // not
@@ -41,7 +41,7 @@ div.classList.replace('foo', 'bar');
 
 Add the following to Console in Chrome Dev Tools
 
-```js
+```javascript
 var docWidth = document.documentElement.offsetWidth;
 
 [].forEach.call(
