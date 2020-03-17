@@ -7,6 +7,7 @@ Repo for various notes and lists.
 #### Adobe
 - [After Effects expressions](adobe/after-effects-expressions.md)
 - [InDesign workflow snippets](adobe/indesign-snippets.md)
+- [Photoshop GIF export settings for social](adobe/social-gif-export.md)
 
 #### MacOS
 - [MacOS snippets](mac-os/mac-snippets.md)
@@ -18,7 +19,7 @@ Repo for various notes and lists.
 - [CSS snippets](web-development/css-snippets.md)
 - [HTML snippets](web-development/html-snippets.md)
 - [JS snippets](web-development/js-snippets.md)
-- [SASS snippets](web-development/sass.md)
+- [SASS snippets](web-development/sass-snippets.md)
 - [Setting up Compass](web-development/setup-compass.md)
 - [Setting up Craft CMS](web-development/setup-compass.md)
 - [Setting up Grunt](web-development/setup-grunt.md)
