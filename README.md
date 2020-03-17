@@ -5,7 +5,7 @@ Repo for various notes and lists.
 ### Table of contents
 
 #### Adobe
-- [After Effects expressions](adobe/after-effects-expressions.md)
+- [After Effects expressions](adobe/after-effects-snippets.md)
 - [InDesign workflow snippets](adobe/indesign-snippets.md)
 - [Photoshop GIF export settings for social](adobe/social-gif-export.md)
 
@@ -21,5 +21,5 @@ Repo for various notes and lists.
 - [JS snippets](web-development/js-snippets.md)
 - [SASS snippets](web-development/sass-snippets.md)
 - [Setting up Compass](web-development/setup-compass.md)
-- [Setting up Craft CMS](web-development/setup-compass.md)
+- [Setting up Craft CMS](web-development/setup-craft.md)
 - [Setting up Grunt](web-development/setup-grunt.md)
