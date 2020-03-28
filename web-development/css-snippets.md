@@ -2,7 +2,7 @@
 
 **Better image sharpness with scaling or downsizing** [Source](https://medium.freecodecamp.org/-898b38a6c0e1)
 
-```sass
+```scss
 img {
   image-rendering: -webkit-optimize-contrast;
 }
@@ -10,7 +10,7 @@ img {
 
 **Useful for text wrap appearence and missing margins** [Source](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/)
 
-```sass
+```scss
 div {
   // In the future
   display: flow-root;
@@ -22,9 +22,10 @@ div {
 
 **Position fixed that aligns to container rather than window** [Source](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
 
-```sass
+```scss
 .parent {
-  transform: translateZ(0); // Add this
+  // Add this
+  transform: translateZ(0);
 }
 
 .child {
@@ -34,7 +35,7 @@ div {
 
 **Apply properties to all but last**
 
-```sass
+```scss
 li + li {
  margin-top: 1rem;
 }
@@ -42,16 +43,16 @@ li + li {
 // VS
 
 li {
- //margin-bottom: 1rem;
+ // margin-bottom: 1rem;
 }
 li:last-of-type {
-  //margin-bottom: 0;
+  // margin-bottom: 0;
 }
 ```
 
 **Truncate text with CSS**
 
-```sass
+```scss
 p {
   overflow: hidden;
   white-space: nowrap;
@@ -61,7 +62,7 @@ p {
 
 **Ratio keeping containers (16:9 example)**
 
-```sass
+```scss
 .outer {
   position: relative;
   
@@ -84,7 +85,7 @@ p {
 
 **Disable CSS animations for users who opt-out of motion**
 
-```css
+```scss
 @media (prefers-reduced-motion: reduce) {
   * {
     animation: none !important;
@@ -95,7 +96,7 @@ p {
 
 **Show search button when the search has content**
 
-```
+```scss
 button {
   display: none;
 }
@@ -103,5 +104,14 @@ button {
 input:not(:placeholder-shown) + button {
   display: block;
 }
+```
 
+**Class to break content out of containers to full width**
+
+```scss
+.breakout {
+  width: 100vw;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
 ```
