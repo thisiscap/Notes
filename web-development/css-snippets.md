@@ -115,3 +115,18 @@ input:not(:placeholder-shown) + button {
   transform: translateX(-50%);
 }
 ```
+
+**Animate the closing of a modal** [Source](https://codepen.io/lonekorean/pen/vYLNdBY)
+
+```scss
+.modal {
+    animation: dismiss 1s forwards;
+}
+
+@keyframes dismiss {
+    to {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+```
