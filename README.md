@@ -11,6 +11,7 @@ Repo for various notes and lists.
 
 #### MacOS
 - [MacOS snippets](mac-os/mac-snippets.md)
+- [‘New Job Bag’ Workflow](mac-os/job-bag-workflow/readme.md)
 
 #### Web development
 - [Atom.io packages](web-development/atom-packages.md)
