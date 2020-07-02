@@ -12,8 +12,8 @@ MacOS Automator workflow to create job bags.
 
 ### Setup (only needs doing once)
 
-1. <a href="https://github.com/thisiscap/notes/raw/master/mac-os/job-bag-workflow/workflow.zip" download="download">Download `New Job Bag.workflow`</a>
+1. <a href="https://github.com/thisiscap/notes/raw/master/mac-os/job-bag-workflow/workflow.zip" download="download">Download `workflow.zip`</a> and un-zip it
 2. In `Finder` select `Go > Go to Folder…`
 3. Paste in `~/Library/Services` and hit Go
-4. Drop `New Job Bag.workflow` into that folder
+4. Drop the `New Job Bag.workflow` file into that folder
 5. Try it out!
