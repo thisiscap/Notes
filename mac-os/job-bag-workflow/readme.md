@@ -4,10 +4,9 @@ MacOS Automator workflow to create job bags.
 
 ### How to use it
 
-1. In `Finder`, select the client folder
-2. Right click and select `New Job Bag`
-3. Enter the name for the new job bag folder in the prompt
-4. Feel smug :smirk:
+1. Right click on a client folder and select `New Job Bag` (near the bottom)
+2. Enter the name for the new job bag folder in the prompt that appears
+3. Feel smug :smirk:
 
 
 ### Setup (only needs doing once)
