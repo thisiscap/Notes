@@ -53,3 +53,23 @@ var docWidth = document.documentElement.offsetWidth;
   }
 );
 ```
+
+**Pause playing video elements when scrolled out of viewport** [Source](https://css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/?ref=webdesignernews.com)
+
+```html
+<video src="my-video.mp4" controls=""></video>
+```
+
+```javascript
+let video = document.querySelector('video');
+let isPaused = false; /* Flag for auto-paused video */
+let observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+        if(entry.intersectionRatio!=1  && !video.paused){
+            video.pause(); isPaused = true;
+        }
+        else if(isPaused) {video.play(); isPaused=false}
+    });
+}, {threshold: 1});
+observer.observe(video);
+```
