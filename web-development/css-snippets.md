@@ -14,7 +14,7 @@ img {
 div {
   // In the future
   display: flow-root;
-  
+
   // As of now
   overflow: auto;
 }
@@ -65,14 +65,14 @@ p {
 ```scss
 .outer {
   position: relative;
-  
+
   &:before {
     display: block;
     content: "";
     width: 100%;
     padding-top: (9 / 16) * 100%;
   }
-  
+
   > .inner {
     position: absolute;
     top: 0;
@@ -128,5 +128,26 @@ input:not(:placeholder-shown) + button {
         opacity: 0;
         visibility: hidden;
     }
+}
+```
+
+**Style bullets on bulleted list** [Source](https://www.ishadeed.com/article/uncommon-css/)
+
+```scss
+ul {
+    li {
+    color: blue;
+
+    &::marker {
+        color: orange;
+    }
+```
+
+**Prevent repeating backgrounds from being clipped** [Source](https://www.ishadeed.com/article/uncommon-css/)
+
+```scss
+.repeating-background {
+    background-size: contain;
+    background-repeat: round;
 }
 ```
