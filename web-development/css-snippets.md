@@ -136,17 +136,19 @@ input:not(:placeholder-shown) + button {
 ```scss
 ul {
     li {
-    color: blue;
+        color: blue;
 
-    &::marker {
-        color: orange;
+        &::marker {
+            color: orange;
+        }
     }
+}
 ```
 
 **Prevent repeating backgrounds from being clipped** [Source](https://www.ishadeed.com/article/uncommon-css/)
 
 ```scss
-.repeating-background {
+.nice-repeating-background {
     background-size: contain;
     background-repeat: round;
 }
