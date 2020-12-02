@@ -1,3 +1,3 @@
 # Notes
 
-Repo for various notes and lists.
+Various notes and lists.
