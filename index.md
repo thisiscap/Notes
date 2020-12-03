@@ -11,6 +11,7 @@
 ## MacOS
 - [MacOS snippets](mac-os/mac-snippets.md)
 - [‘New Job Bag’ Workflow](mac-os/job-bag-workflow/readme.md)
+- [Useful Bash/Zsh aliases](mac-os/aliases.md)
 
 ## Web development
 - [Atom.io packages](web-development/atom-packages.md)
